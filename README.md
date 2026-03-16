@@ -1,3 +1,12 @@
+Portfolio :- 
+---
+Linkedln :- https://www.linkedin.com/in/atharva-waikar-a95a042b5/
+---
+Github :- https://github.com/AtharvaWaikar
+---
+---
+
+
 # 📊 Employee Performance & Compensation Analysis
 ## 📌 Project Overview
 
